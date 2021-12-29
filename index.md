@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Mineserver64へようこそ!!
 
-You can use the [editor on GitHub](https://github.com/Mineserver64/home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+サーバーアドレス
+mineserver64.f5.si
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+このサーバーは、RPGとサバイバルがあります。
+※ RPGサーバーは現在開発中です。
 
-### Markdown
+### ワールド要素紹介
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Lobbyサーバー
 
-1. Numbered
-2. List
+サーバーに接続するとまずこのサーバーに繋がります。
+ここから、各種サーバーに接続できます。
+Lobbyサーバーには、TNTラン、アスレチック、マルチスカイブロックがあります。
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+RPG(ロールプレイングゲーム)サーバー
+
+様々なクエストや建築物があります。
+
+
+サバイバルサーバー
+
+資源鯖があるだけの、ただのバニラサバイバル鯖です。
+
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### ウェブサイト移動
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mineserver64/home/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 連絡先
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+サーバーオーナーはDiscord illusion395｜S395T#4476  サイト管理者はPENKUN0286#2255です
